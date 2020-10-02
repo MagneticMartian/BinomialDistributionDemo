@@ -1,3 +1,3 @@
 # BinomialDistributionDemo
 
-When OOP goes to far.
+When OOP and Python goes to far.
